@@ -1,0 +1,13 @@
+Source: hcvl-framework
+Section: misc
+Priority: optional
+Maintainer: Uri Herrera <uri_herrera@nxos.org>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.2
+Homepage: http://nx-desktop.org
+
+
+Package: hcvl-framework
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: A framework that ensures that Nitrux runs in a well-understood environment.
