@@ -94,7 +94,7 @@ start() {
     if [ "$iso_flavor" = "nvidia" ] && [ "$gpu_vendor" != "nvidia" ] && [ "$gpu_vendor" != "unknown" ]; then
         halt_system \
             "NVIDIA-Optimized ISO running on Non-NVIDIA Hardware." \
-            "You MUST use the 'contemporary-liquorix-mesa' ISO." \
+            "You MUST use the 'contemporary-cachy-mesa' ISO." \
             "$gpu_vendor"
     fi
 

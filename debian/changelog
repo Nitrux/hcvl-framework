@@ -1,3 +1,9 @@
+hcvl-framework (0.0.2)  nitrux; urgency=medium
+
+  * Fix typo in gpu-vendor-check.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sun, 08 Mar 2026 04:49:00 -0500
+
 hcvl-framework (0.0.1)  nitrux; urgency=medium
 
   * Move files to this package.
