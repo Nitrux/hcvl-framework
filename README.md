@@ -16,6 +16,7 @@ A framework that ensures that Nitrux runs in a predictable, supportable, and wel
 The license for this repository and its contents is **BSD-3-Clause**.
 
 # Issues
+
 If you find problems with the contents of this repository please create an issue.
 
 ©2026 Nitrux Latinoamericana S.C.
