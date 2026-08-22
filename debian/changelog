@@ -1,3 +1,9 @@
+hcvl-framework (0.0.2-1)  nitrux; urgency=medium
+
+  * Rebuild.
+
+ -- Uri Herrera <uri_herrera@nxos.org>  Sat, 22 Aug 2026 09:19:00 -0500
+
 hcvl-framework (0.0.2)  nitrux; urgency=medium
 
   * Fix typo in gpu-vendor-check.
